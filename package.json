@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/MikeAChavez/garage-com#readme",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "is-odd": "^3.0.1"
   }
 }
